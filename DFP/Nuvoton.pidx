@@ -4,7 +4,7 @@
   <url>https://github.com/ccli0/Nuvoton_DFP_Internal/raw/master/DFP/</url>
   <timestamp>2022-08-04T12:00:10.7300074+00:00</timestamp>
   <pindex>
-    <pdsc url="https://github.com/ccli0/Nuvoton_DFP_Internal/raw/master/DFP/" vendor="Nuvoton" name="NuMicro_DFP" version="1.3.18"/>
+    <pdsc url="https://github.com/ccli0/Nuvoton_DFP_Internal/raw/master/DFP/" vendor="Nuvoton" name="NuMicro_DFP" version="1.3.19"/>
     <pdsc url="https://github.com/ccli0/Nuvoton_DFP_Internal/raw/master/DFP/" vendor="Nuvoton" name="NuMicroM7_DFP" version="1.0.3"/>
   </pindex>
 </index>
