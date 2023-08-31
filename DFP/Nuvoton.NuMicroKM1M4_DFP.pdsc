@@ -4,7 +4,7 @@
   <vendor>Nuvoton</vendor>
   <name>NuMicroKM1M4_DFP</name>
   <description>Nuvoton ARM Cortex-M NuMicro M4 Family Device Support</description>
-  <url>https://github.com/OpenNuvoton/cmsis-packs/raw/master/</url>
+  <url>https://github.com/ccli0/Nuvoton_DFP_Internal/raw/master/DFP/</url>
   <supportContact></supportContact>
   <!-- optional license file -->
   <!-- 
